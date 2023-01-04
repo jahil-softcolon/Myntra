@@ -1,3 +1,3 @@
 #Myntra clone made by jahil paghadal
 
-Link: myntra-jahil.netlify.app
+Link: http://myntra-jahil.netlify.app
