@@ -1,5 +1,4 @@
-#myntra-jahil.netlify.app
-Myntra
-Myntra clone 
+#Myntra
+Myntra clone made by jahil paghadal
 
-  #myntra-jahil.netlify.app
+Link: myntra-jahil.netlify.app
